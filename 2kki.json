@@ -2094,6 +2094,33 @@
     "/Panorama/cheo_button325.png",
     "/Panorama/cheo_button326.png"
   ],
+  "3105": [
+    "*/Map3107.lmu"
+  ],
+  "3107": [
+    "/ChipSet/PGR_CHIP_06.png",
+    "/CharSet/PGR_CHAR_01.png",
+    "/CharSet/PGR_CHAR_06.png",
+    "/CharSet/PGR_CHAR_05.png",
+    "/Panorama/PGR_PAN_10.png"
+  ],
+  "3109": [
+    "*/Map3110.lmu",
+    "/Panorama/PGR_PAN_14.png",
+    "/Picture/PGR_EFFECT_LIGHTING1.png",
+    "/Music/bgm059.opus",
+    "/Picture/PGR_EFFECT_WHITE.png",
+    "/Sound/PGR_env_thunderB.opus",
+    "/Music/pgr_aquatic.opus",
+    "/Panorama/PGR_PAN_13.png",
+    "/Picture/PGR_EFFECT_SKYBRIGHT.png",
+    "/Sound/PGR_env_thunderA.opus"
+  ],
+  "3110": [
+    "/Panorama/PGR_PAN_12.png",
+    "/ChipSet/PGR_CHIP_07.png",
+    "/CharSet/PGR_CHAR_04.png"
+  ],
   "3130": [
     { "x": 196, "y": 193, "files": [
     "/Picture/dotgov_paperf1.PNG",
@@ -2143,6 +2170,149 @@
     "/Sound/dedp_DrinkB@11.opus",
     "/Sound/dedp_Female Laugh 05.opus"
     ]}
+  ],
+  "3280": [
+    "/Panorama/PGR_PAN_20.png",
+    "/Panorama/PGR_PAN_20g1.png",
+    "/Panorama/PGR_PAN_20g2.png",
+    "/Panorama/PGR_PAN_20g3.png",
+    "/Panorama/PGR_PAN_20g4.png",
+    "/Panorama/PGR_PAN_20g5.png",
+    "/Panorama/PGR_PAN_20g6.png",
+    "/Panorama/PGR_PAN_20g7.png",
+    "/Panorama/PGR_PAN_20g8.png",
+    "/Picture/PGR_VIGNETTE_01.png",
+    "/Picture/PGR_VIGNETTE_02.png",
+    "/Picture/PGR_VIGNETTE_03.png",
+    "/Picture/PGR_VIGNETTE_04.png",
+    "/Picture/PGR_VIGNETTE_05.png",
+    "/Picture/PGR_VIGNETTE_06.png",
+    "/Picture/PGR_VIGNETTE_07.png",
+    "/Picture/PGR_VIGNETTE_08.png",
+    "/Picture/PGR_VIGNETTE_09.png",
+    "/Picture/PGR_VIGNETTE_10.png",
+    {"x": 214, "y": 64, "files": [
+    "/Picture/PGR_EV_01.png",
+    "/Picture/PGR_EV_02.png",
+    "/Picture/PGR_EV_03.png",
+    "/Picture/PGR_EV_04.png",
+    "/Picture/PGR_EV_05.png",
+    "/Picture/PGR_EV_06.png"
+    ]}
+  ],
+  "3593": [
+    "/Panorama/PGR_PAN_31.png",
+    "/ChipSet/PGR_CHIP_14.png",
+    "/CharSet/PGR_CHAR_10.png",
+    "/CharSet/PGR_CHAR_09.png",
+    "/Picture/PGR_PIC_STATIC1.png",
+    "/Music/pgr_clockwork_OLD.opus"
+    ],
+  "3594": [
+    "/Panorama/PGR_PAN_32.png",
+    "/Picture/PGR_EFFECT_FOG.png",
+    "/Picture/PGR_EFFECT_FIREFLY_A.png"
+  ],
+  "3595": [
+    "/Panorama/PGR_PAN_26.png",
+    "/CharSet/PGR_CHAR_11.png",
+    "/CharSet/PGR_CHAR_BUST.png",
+    "/Music/n3-RoW.opus"
+  ],
+  "3596": [
+    "/Picture/PGR_EFFECT_RAIN.png",
+    "/Panorama/PGR_PAN_27.png",
+    "/Panorama/PGR_PAN_27_C01.png",
+    "/Panorama/PGR_PAN_27_C02.png",
+    "/Panorama/PGR_PAN_27_C03.png",
+    "/Panorama/PGR_PAN_27_C04.png",
+    "/Panorama/PGR_PAN_27_C05.png",
+    "/Panorama/PGR_PAN_27_C06.png",
+    "/Panorama/PGR_PAN_27_C07.png",
+    "/Panorama/PGR_PAN_27_C08.png",
+    "/Panorama/PGR_PAN_27_C09.png",
+    "/Panorama/PGR_PAN_27_C10.png",
+    "/Panorama/PGR_PAN_27_C11.png",
+    "/Panorama/PGR_PAN_27_C12.png",
+    "/Panorama/PGR_PAN_27_C13.png",
+    "/Panorama/PGR_PAN_27_C14.png",
+    "/Panorama/PGR_PAN_27_C15.png",
+    "/Panorama/PGR_PAN_27_C16.png",
+    "/Panorama/PGR_PAN_27_C17.png",
+    "/Panorama/PGR_PAN_27_C18.png",
+    "/Panorama/PGR_PAN_27_C19.png",
+    "/Panorama/PGR_PAN_27_C20.png",
+    "/Panorama/PGR_PAN_27_C21.png",
+    "/Panorama/PGR_PAN_27_C22.png",
+    "/Panorama/PGR_PAN_27_C23.png",
+    "/Panorama/PGR_PAN_27_C24.png",
+    "/Panorama/PGR_PAN_27_C25.png",
+    "/Panorama/PGR_PAN_27_C26.png",
+    "/Panorama/PGR_PAN_27_C27.png",
+    "/Panorama/PGR_PAN_27_C28.png",
+    "/Panorama/PGR_PAN_27_C29.png",
+    "/Panorama/PGR_PAN_27_C30.png",
+    "/Panorama/PGR_PAN_27_C31.png",
+    "/Panorama/PGR_PAN_27_C32.png",
+    "/Picture/PGR_EFFECT_CIN_LIGHT.png",
+    "/ChipSet/PGR_CHIP_17.png",
+    "/CharSet/PGR_CHAR_07.png",
+    "/CharSet/PGR_CHAR_12.png",
+    "/Music/Y24U+Marienyan_train.opus",
+    "/Panorama/PGR_PAN_39_A.png",
+    "/Panorama/PGR_PAN_39_B.png",
+    "/Panorama/PGR_PAN_39_C.png",
+    "/Music/pgr_AMB_raincityindoor.opus",
+    { "x": 50, "y": 139, "files": [
+    "/Sound/PGR_sfx_trainstinger.opus",
+    "/Sound/PGR_sfx_trainhorn.opus",
+    "/Picture/PGR_EV_BT_01.png",
+    "/Picture/PGR_EV_BT_02.png",
+    "/Picture/PGR_EV_BT_03.png",
+    "/Picture/PGR_EV_BT_04.png",
+    "/Picture/PGR_EV_BT_05.png",
+    "/Picture/PGR_EV_BT_06.png",
+    "/Picture/PGR_EV_BT_07.png",
+    "/Picture/PGR_EV_BT_08.png",
+    "/Picture/PGR_EV_BT_09.png",
+    "/Picture/PGR_EV_BT_02A.png",
+    "/Picture/PGR_EV_BT_02B.png",
+    "/Picture/PGR_EV_BT_02C.png",
+    "/Picture/PGR_EV_BT_02D.png",
+    "/Picture/PGR_EV_BT_FG1.png",
+    "/Picture/PGR_EV_BT_FG2.png",
+    "/Picture/PGR_EV_BT_FG3.png",
+    "/Picture/PGR_EV_BT_FG4.png",
+    "/Picture/PGR_EV_BT_FG5.png",
+    "/Picture/PGR_EV_BT_FG6.png",
+    "/Picture/PGR_EV_BT_FG7.png",
+    "/Music/pgr_elysium(bullettrain).opus"
+    ]}
+  ],
+  "3597": [
+    "/Panorama/PGR_PAN_24.png",
+    "/ChipSet/PGR_CHIP_15.png",
+    "/Panorama/PGR_PAN_15.png",
+    "/Picture/PGR_EFFECT_RAIN_DISTANCE.png",
+    "/Sound/PGR_env_newjapan.opus",
+    "/Picture/PGR_PIC_OVERLAY04.png"
+  ],
+  "3599": [
+    "/Panorama/PGR_PAN_25.png",
+    "/Picture/PGR_PIC_STATIC2.png",
+    "/Picture/PGR_PIC_STATIC3.png",
+    "/ChipSet/PGR_CHIP_16.png",
+    "/CharSet/PGR_CHAR_08.png",
+    "/Music/y24u_00033.opus"
+  ],
+  "3882": [
+    "/Panorama/PGR_PAN_33.png",
+    "/CharSet/PGR_CHAR_SCULPTURE.png",
+    "/Music/pgr_spectral.opus"
+  ],
+  "3885": [
+    "/Panorama/PGR_PAN_38.png",
+    "/Music/pgr_AMB_sewer.opus"
   ],
   "title": [
     "*/FaceSet/syujinkou0.png",
